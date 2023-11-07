@@ -7,6 +7,12 @@ body {
     text-align: center;
 }
 
+#members {
+    text-align: center;
+    border-color: #fff;
+    border-width: 10px;
+}
+
 div.scroll-container {
     background-color: #333;
     overflow: auto;
