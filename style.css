@@ -9,15 +9,28 @@ body {
 
 #top-header {
     text-align: center;
+    margin: auto;
+}
+
+#whatis {
+    text-align: center;
+}
+
+#knownfor {
+    text-align: center;
+    margin: auto;
+}
+
+ul, li {
+    list-style: none;
 }
 
 #members, #albums {
     text-align: center;
-    border-color: #fff;
-    border-width: 10px;
     margin-left: auto;
     margin-right: auto;
     font-size: large;
+    
 }
 
 table {
